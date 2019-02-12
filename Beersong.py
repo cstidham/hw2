@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# created by chris stidham
+#created on 2/11
+>>>>>>> interface
 for beer in range(99, 0, -1):
   if beer > 1:
      print (beer, "bottles of beer on the wall,", beer, "bottles of beer.")
